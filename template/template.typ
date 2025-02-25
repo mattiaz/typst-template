@@ -96,7 +96,7 @@
   //  TABLE OF CONTENTS
   //
 
-  outline(depth: 3, indent: true)
+  outline(depth: 3)
   pagebreak()
 
   //
